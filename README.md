@@ -13,7 +13,7 @@ Installation
 
 Install `meteor-autocompletion` using [Meteorite](http://oortcloud.github.io/meteorite/):
 
-    mrt add meteor-autocompletion
+    mrt add autocompletion
 
 Configuration
 -------------
@@ -31,7 +31,7 @@ Add an `<input>` field to your template with an `id` attribute:
     </head>
 
     <body>
-      <h1>meteor-autocomplete test app</h1>
+      <h1>meteor-autocompletion test app</h1>
       {{>search}}
     </body>
 
